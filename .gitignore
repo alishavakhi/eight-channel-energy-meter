@@ -1,0 +1,18 @@
+# Altium Designer local artefacts
+*.~(1).*
+*.~(2).*
+History/
+__Previews/
+Project Logs for */
+*.LOG
+*.SCHECO
+*.PCBDOC.Zip
+*.SchDoc.Zip
+*.PrjPcb.Zip
+Last Loaded *.pcbdoc
+*.pcbdoc.lock
+*.schdoc.lock
+*_stepcache/
+out/
+__pycache__/
+*.pyc
